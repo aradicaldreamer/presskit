@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<company>
+  <title>Campervan Games</title>
+  <based-in>Melbourne, Australia</based-in>
+  <founding-date>26 July, 2019</founding-date>
+  <website>https://campervan.games</website>
+  <press-contact>
+    <!-- Mail address -->
+    campervangames@gmail.com
+  </press-contact>
+
+  <!-- Google analytics ID: -->
+  <analytics></analytics>
+
+  <!-- <phone></phone> -->
+  <!-- <address>
+    <line>
+      Street
+    </line>
+    <line>
+      City
+    </line>
+    <line>
+      Country
+    </line>
+  </address> -->
+
+  <socials>
+    <social>
+      <name>Twitter</name>
+      <link>
+        <!-- URL starting with http or https -->
+        https://twitter.com/campervangames
+      </link>
+      <name>Facebook Page</name>
+      <link>
+        <!-- URL starting with http or https -->
+        https://www.facebook.com/CampervanGames/
+      </link>
+      <name>Instagram</name>
+      <link>
+        <!-- URL starting with http or https -->
+        https://www.instagram.com/campervangames/
+      </link>
+    </social>
+  </socials>
+
+  <description>Campervan Games is a new Melbourne based Independent Game Studio founded by Matthew Deline focused on creating wholesome, engaging experiences. We are currently working on an unannounced project, scheduled for release on mobile in 2020.</description>
+
+  <!-- Choose between a single block: -->
+  <!-- <history></history> -->
+
+  <!-- Or multiple blocks: -->
+  <!--
+  <histories>
+    <history>
+      <header></header>
+      <text></text>
+    </history>
+  </histories>
+  -->
+
+  <trailers>
+    <trailer>
+      <name>Shape Arcade Trailer</name>
+
+      <!-- Pick one: -->
+      <youtube>
+        <!-- Video ID only, not the full URL -->
+        YMsmbw2Wt40
+      </youtube>
+    </trailer>
+
+    <trailer>
+      <name>Highlight Reel</name>
+
+      <youtube>
+        op_jb7HOlFI
+      </youtube>
+    </trailer>
+  </trailers>
+
+  <!-- <awards>
+    <award>
+      <description></description>
+      <info></info>
+    </award>
+  </awards> -->
+
+  <!-- <quotes>
+    <quote>
+      <description></description>
+      <name></name>
+      <website></website>
+      <link></link>
+    </quote>
+  </quotes> -->
+
+  <!-- <additionals>
+    <additional>
+      <title></title>
+      <description></description>
+      <link></link>
+    </additional>
+  </additionals> -->
+
+  <credits>
+    <credit>
+      <person>Matthew Deline</person>
+      <role>Founder, Campervan Games</role>
+
+      <!-- Optional: -->
+      <website>https://www.matthewdeline.com</website>
+    </credit>
+    <credit>
+      <person>Sander Mateijsen</person>
+      <role>Logo Designer, Freelance</role>
+    </credit>
+  </credits>
+
+  <contacts>
+    <contact>
+      <name>Inquiries</name>
+
+      <!-- Pick one: -->
+      <mail>campervangames@gmail.com</mail>
+      <link></link>
+    </contact>
+    <contact>
+      <name>Twitter</name>
+      <link>https://twitter.com/campervangames</link>
+    </contact>
+    <contact>
+      <name>Facebook</name>
+      <link>https://www.facebook.com/CampervanGames/</link>
+    </contact>
+    <contact>
+      <name>Web</name>
+      <link>https://campervan.games</link>
+    </contact>
+  </contacts>
+</company>
