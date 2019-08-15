@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<product>
+  <title>Shape Arcade</title>
+  <release-date>April 11, 2018</release-date>
+  <website>https://shapearcade.com</website>
+
+  <!-- Link to request press copy: -->
+  <press-copy-request></press-copy-request>
+
+  <platforms>
+    <platform>
+      <name>Custom Hardware</name>
+      <!-- <link></link> -->
+    </platform>
+  </platforms>
+
+  <prices>
+    <price>
+      <currency></currency>
+      <value>Contact Developer for quote</value>
+    </price>
+  </prices>
+
+  <description>Shape Arcade is a neon-infused love letter to the early arcade era with ease of use and accessibility in mind. Built inside a custom tabletop arcade cabinet that reacts to how you play! Using two dials, players match falling shapes in progressively more difficult levels. Can you match the most?</description>
+
+  <!-- Choose between a single block: -->
+  <history>Shape Arcade was originally created by Matthew Deline in April 2018 as a graduate student physical computing/game design project at Goldsmiths, University of London. Revisions of the original cabinet and new versions for home and mobile are in active development at Matthew's new Melbourne-based studio, Campervan Games. They are both currently scheduled for release in 2020.</history>
+
+  <!-- Or multiple blocks: -->
+  <!--
+  <histories>
+    <history>
+      <header></header>
+      <text></text>
+    </history>
+  </histories>
+  -->
+
+  <features>
+    <feature>Custom Tabletop Cabinet</feature>
+    <feature>Alternative Control Scheme</feature>
+    <feature>Reactive Lighting and Motion</feature>
+    <feature>Addictive Arcade Gameplay</feature>
+    <feature>Satisfying Level of Challenge</feature>
+  </features>
+
+  <trailers>
+    <trailer>
+      <name>Shape Arcade Trailer</name>
+
+      <!-- Pick one: -->
+      <youtube>
+        <!-- Video ID only, not the full URL -->
+        YMsmbw2Wt40
+      </youtube>
+    </trailer>
+
+    <trailer>
+      <name>Shape Arcade Trailer with Developer Commentary</name>
+      <youtube>
+        Ibo4c6jBTWg
+      </youtube>
+    </trailer>
+  </trailers>
+
+  <!-- <awards>
+    <award>
+      <description></description>
+      <info></info>
+    </award>
+  </awards> -->
+
+  <!-- <quotes>
+    <quote>
+      <description></description>
+      <name></name>
+      <website></website>
+      <link></link>
+    </quote>
+  </quotes> -->
+
+  <additionals>
+    <additional>
+      <title>Shape Arcade Development Blog</title>
+      <description>Detailed documentation of the build process for the original cabinet</description>
+      <link>https://matthewdeline.com/portfolio/shape-arcade/</link>
+    </additional>
+  </additionals>
+
+  <credits>
+    <credit>
+      <person>Matthew Deline</person>
+      <role>Creator</role>
+
+      <!-- Optional: -->
+      <website>https://www.matthewdeline.com</website>
+    </credit>
+  </credits>
+
+  <contacts>
+    <contact>
+      <name>Matthew Deline</name>
+
+      <!-- Pick one: -->
+      <!-- <mail></mail> -->
+      <link>https://twitter.com/mattdeline</link>
+    </contact>
+  </contacts>
+</product>
